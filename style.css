@@ -384,7 +384,6 @@ body {
 
 .portfolio-images-grid {
   border-bottom: 1px solid var(--portfolio-card-border);
-  align-items: left;
   background-color: var(--section-2-bg-color);
 }
 
