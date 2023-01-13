@@ -145,6 +145,7 @@ body {
 }
 
 .section > .container > button {
+  height: 50px;
   width: 200px;
   margin-top: 30px;
   background: var(--primary-color);
@@ -198,16 +199,7 @@ body {
   color: var(--our-team-member-position-text-color);
 }
 
-.main-div-2 {
-  width: 1600px;
-  padding-top: 94px;
-  align-items: center;
-  display: flex;
-  justify-content: center;
-  flex-direction: column;
-}
-
-.main-div-2 > h2 {
+.container > h2 {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.17;
