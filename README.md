@@ -1,2 +1,2 @@
 ﻿# goit-markup-hw-03
-https://github.com/GoldenWarJoy/goit-markup-hw-03.git
+https://goldenwarjoy.github.io/goit-markup-hw-03/
